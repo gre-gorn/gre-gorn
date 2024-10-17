@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gre-gorn
 - 👀 I’m interested in ... well in programming?
-- 🌱 I’m currently learning Godot and programming for embedded small/tiny devices (ARM and RISC-V, but MIPS, 6502, 68000, SPARC also)
+- 🌱 I’m currently working on tiny games and learning programming for embedded small/tiny devices (ARM and RISC-V, but MIPS, 6502, 68000, SPARC also)
 - ⚡ Fun fact: 0x0030
 
 <!---
