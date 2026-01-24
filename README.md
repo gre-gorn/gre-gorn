@@ -316,14 +316,13 @@ Project: Warehouse Management System (WMS)
 ### 1988 –
 Programming beginnings on **8-bit Atari** platforms.
 
-### 1993 – 1994  
+### 1993 – 1995  
 **Early Game Development (Non-commercial / Early Commercial Attempt)**
 
 - Game development in **6502 assembly**
-- Implemented a complete **Tetris clone in x86 assembly**
-  (DOS4GW, flat memory model)
 - Low-level programming: memory layout, CPU instructions, timing, rendering
 - Attempt to publish and distribute a first commercial game title
+- own programming language design called Sigma - easy including and implementing external libraries
 
 ---
 
@@ -334,7 +333,9 @@ Programming beginnings on **8-bit Atari** platforms.
 - Technical groundwork, prototyping and tooling
 - All initiatives ultimately unsuccessful, providing early-stage
   product and business experience
-
+- Implemented a complete **Tetris clone in x86 assembly**
+  (DOS4GW, flat memory model)
+  
 ---
 
 ## Patents & Recognition
