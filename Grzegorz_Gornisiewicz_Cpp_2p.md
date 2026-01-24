@@ -14,6 +14,13 @@ Strong focus on **software design, code quality, stability, performance, and mai
 
 ---
 
+### Engineering Focus
+
+Across my career, I have consistently worked on software where **correctness, performance, and long-term maintainability** were more important than rapid prototyping.  
+I focus on **practical application of data structures, algorithms, and software design**, choosing solutions that remain understandable and debuggable over time.  
+Most of my work involved **long-lived systems**, requiring careful attention to failure modes, resource management, and safe evolution of existing codebases.
+
+
 ## Core Expertise
 
 - Software design for **production systems**
