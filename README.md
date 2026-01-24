@@ -6,13 +6,18 @@
 
 ## Profile
 
-Senior Software Engineer with **35+ years of hands-on experience** in system-level,
-cross-platform software development.
+Senior Software Engineer with **35+ years of hands-on experience** in system-level
+and cross-platform software development.
 
-Strong background in **C/C++**, distributed and real-time systems, networking,
-operating systems, embedded systems and firmware development. Career rooted in
-infrastructure, networking and system administration, evolving naturally into
-low-level programming, long-living Unix services, real-time software and R&D.
+Career rooted in **infrastructure, networking and system administration**, evolving
+into **low-level programming, C/C++ enterprise systems, distributed and real-time
+software**.
+
+Since approximately **2015**, primary development focus has shifted towards
+**C#-based and Flutter-based applications**, including **Unity-driven AR / VR systems**,
+mobile platforms and real-time interactive applications, while maintaining
+strong practical knowledge of **C/C++**, operating systems and performance-critical
+system design.
 
 Hands-on experience includes **real-time video streaming**, **VoIP platforms**,
 **IoT systems**, **computer vision**, **emulation**, **game engines**, and
