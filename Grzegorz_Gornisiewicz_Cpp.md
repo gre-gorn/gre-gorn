@@ -7,43 +7,45 @@ LinkedIn: https://www.linkedin.com/in/ggornisiewicz
 
 ## Professional Profile
 
-Senior Software Engineer with **35+ years of hands-on experience** in **system-level and real-time software development**, specializing in **modern C++**, **multithreaded systems**, **networked applications** and **performance-critical services**.
+Senior Software Engineer with **35+ years of hands-on experience** in **system-level and real-time software development**, with a strong focus on **modern C++**, **multithreaded systems**, **networked applications** and **performance-critical services**.
 
-Strong background in **video streaming**, **VoIP platforms**, **network protocols** and **long-running server processes** across **Linux, Windows and Unix** systems. Experienced in full lifecycle development of production-grade software: architecture, implementation, optimization and maintenance.
+Extensive background in **video streaming platforms**, **VoIP systems**, **network protocols**, **long-running server processes** and **cross-platform software** (Linux, Windows, Unix). Practical experience spans full lifecycle development of production systems, from architecture and implementation to optimization and maintenance.
+
+In recent years, complemented low-level and backend expertise with **real-time graphics and video-related systems**, including **computer vision**, **video pipelines** and **high-performance client applications**, while maintaining a strong C/C++ core.
 
 ---
 
 ## Core Technical Skills
 
-### Programming
+### Programming Languages
 - **C, C++ (modern C++, production systems)**
 - C#
 - Python
 
-### Operating Systems
+### Operating Systems & Runtime
 - Linux (primary)
 - Windows
-- Unix (Solaris, AIX, BSD)
+- Unix variants (Solaris, AIX, BSD)
 
-### Concurrency & Systems
+### Systems & Concurrency
 - Multithreading (pthreads, mutexes, condition variables)
 - IPC mechanisms
-- Long-running daemon and service design
-- Memory management, performance optimization
+- Long-running daemon/service design
+- Memory management and performance optimization
 - Exception handling and fault tolerance
 
 ### Networking
 - TCP/IP, UDP
-- Socket programming
+- Network socket programming
 - REST / HTTP-based APIs
 - Real-time data streaming
 
-### Software Engineering
-- Modular architecture, clean code
-- Refactoring large legacy C/C++ codebases
-- Debugging and profiling production systems
-- Cross-platform builds and toolchains
-- Collaboration with architects, QA and product teams
+### Software Engineering Practices
+- Modular architecture and clean code
+- Refactoring of large legacy C/C++ codebases
+- Debugging and profiling of production systems
+- Build systems and cross-platform compilation
+- Collaboration with QA and system architects
 
 ---
 
@@ -53,51 +55,51 @@ Strong background in **video streaming**, **VoIP platforms**, **network protocol
 **Self-employed / Contractor**  
 *Senior Software Engineer (C/C++, Systems, Real-time)*
 
-Worked on ~40 commercial and R&D projects for European and US clients.
+Worked on approximately 40 commercial and R&D projects for European and US clients.
 
-**Key responsibilities:**
-- Design and implementation of high-performance systems in C/C++
+**Selected, role-relevant responsibilities:**
+- Design and implementation of high-performance backend and client systems in C/C++
 - Development of networked, real-time applications with heavy concurrency
-- Work on video streaming and media-heavy platforms
-- Custom protocol handling and network services
-- Optimization and refactoring of production systems
-- End-to-end responsibility: architecture, implementation, maintenance
+- Work on video streaming platforms and media-heavy applications
+- Implementation of custom protocol handling and network services
+- Optimization and refactoring of existing C/C++ systems for stability and performance
+- End-to-end responsibility: architecture, implementation and maintenance
 
 ---
 
 ### Voxlatino (2011–2015, USA)  
 **Senior Engineer – VoIP Platform**
 
-- Reverse engineering and extension of VoIP systems
-- Backend services for real-time communication
-- Network-oriented system design
-- High-availability, production environment
+- Reverse engineering and extension of existing VoIP systems
+- Implementation of backend services handling real-time communication
+- Network-oriented system design and troubleshooting
+- High-availability, production-grade environment
 
-**Relevance:** real-time processing, networking, system reliability
+**Key relevance:** real-time data processing, networking, long-running services, system reliability
 
 ---
 
 ### Viddler (2011–2012, USA)  
 **Engineer – Video Streaming Platform**
 
-- Client-side development for video streaming services
-- REST API and media pipeline integration
-- Performance and latency considerations
+- Development of client-side applications interacting with video streaming backends
+- Integration with REST APIs and media pipelines
+- Practical exposure to video delivery, latency and playback constraints
 
-**Relevance:** video delivery systems
+**Key relevance:** video-centric systems and performance considerations
 
 ---
 
 ### X-Formation (2009–2010)  
 **C/C++ Software Engineer**
 
-- Cross-platform licensing backend (Linux, Solaris, AIX, HPUX)
+- Development of cross-platform licensing backend (Linux, Solaris, AIX, HPUX)
 - Multithreaded server architecture
-- Support for **10,000+ concurrent connections**
+- Support for over 10,000 concurrent client connections
+- Maintenance and refactoring of production C/C++ codebase
 - Long-running daemon processes
-- Refactoring and maintenance of production C/C++ codebase
 
-**Relevance:** scalable, concurrent C++ systems
+**Key relevance:** scalable, concurrent, production-grade C++ systems
 
 ---
 
@@ -110,18 +112,30 @@ Worked on ~40 commercial and R&D projects for European and US clients.
 
 ---
 
-## Additional Relevant Expertise
+## Complementary Expertise
 
-- **Computer vision & video processing:** OpenCV, real-time pipelines
-- **Real-time client systems:** native C/C++ integration, performance constraints
-- **Low-level R&D:** CPU emulation, deep understanding of execution and memory models
+### Computer Vision & Video-Related Systems
+- OpenCV-based solutions
+- Practical experience with real-time image and video processing pipelines
+- Performance-oriented processing
+
+### Real-time Rendering & Native Integration
+- Real-time systems with strict performance constraints
+- Native C/C++ component integration
+- Experience applicable to video client applications and visualization layers
+
+### Low-level R&D
+- CPU emulators (C/C++)
+- Deep understanding of execution models, memory behavior and performance
+- Strong analytical and debugging skills
 
 ---
 
-## Education & Background
+## Education & Technical Background
 
 - Programming experience since **1988**
 - Strong foundation in algorithms, data structures and low-level computing
+- Continuous hands-on work with production systems
 
 ---
 
