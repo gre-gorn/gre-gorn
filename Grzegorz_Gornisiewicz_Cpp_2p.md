@@ -1,131 +1,145 @@
-# Grzegorz Górnisiewicz  
-**Senior / Principal C++ Software Engineer (Video · Real-time · Systems)**
+# Grzegorz Górnisiewicz
 
-LinkedIn: https://www.linkedin.com/in/ggornisiewicz
-
----
-
-## Professional Profile
-
-Senior Software Engineer with **35+ years of hands-on experience** in **system-level and real-time software development**, specializing in **modern C++**, **multithreaded systems**, **networked applications** and **performance-critical services**.
-
-Strong background in **video streaming**, **VoIP platforms**, **network protocols** and **long-running server processes** across **Linux, Windows and Unix** systems. Experienced in full lifecycle development of production-grade software: architecture, implementation, optimization and maintenance.
+🔗 LinkedIn: https://www.linkedin.com/in/ggornisiewicz  
 
 ---
 
-## Core Technical Skills
+## Professional Summary
 
-### Programming
-- **C, C++ (modern C++, production systems)**
+Senior C++ Software Engineer with **35+ years of hands-on programming experience** in **system-level, real-time and performance-critical software**.
+
+Specializes in **long-running C++ services**, **multithreaded systems**, **networked applications**, and **video / media-heavy platforms** running on **Linux and Windows**.  
+Experienced in taking **full technical ownership** of production systems: from architecture and implementation through debugging, optimization, and long-term maintenance.
+
+---
+
+## Core Expertise (Engineer-Focused)
+
+- C++ in **production, long-running systems**
+- Real-time and low-latency processing
+- Multithreaded and concurrent programming
+- Linux services and daemon processes
+- Video streaming and media pipelines
+- Client–server architectures
+- Network programming (TCP/IP, UDP)
+- Performance analysis and optimization
+- Debugging complex production issues
+- Refactoring and maintaining legacy C/C++ codebases
+
+---
+
+## Technical Skills
+
+### Programming Languages
+- **C, C++** (system-level, production use)
 - C#
 - Python
 
 ### Operating Systems
-- Linux (primary)
+- **Linux (primary)**
 - Windows
 - Unix (Solaris, AIX, BSD)
 
 ### Concurrency & Systems
 - Multithreading (pthreads, mutexes, condition variables)
-- IPC mechanisms
-- Long-running daemon and service design
-- Memory management, performance optimization
-- Exception handling and fault tolerance
+- Inter-process communication (IPC)
+- Long-running service and daemon design
+- Memory management and performance tuning
+- Error handling and fault tolerance
 
 ### Networking
 - TCP/IP, UDP
 - Socket programming
-- REST / HTTP-based APIs
-- Real-time data streaming
+- REST / HTTP APIs
+- Real-time data and media streaming
 
 ### Software Engineering
-- Modular architecture, clean code
-- Refactoring large legacy C/C++ codebases
+- Modular and maintainable architectures
 - Debugging and profiling production systems
 - Cross-platform builds and toolchains
-- Collaboration with architects, QA and product teams
+- Collaboration with developers, QA and product teams
 
 ---
 
 ## Professional Experience
 
-### 2010 – Present  
-**Self-employed / Contractor**  
-*Senior Software Engineer (C/C++, Systems, Real-time)*
+### Senior Software Engineer – C++ / Real-Time Systems  
+**Self-Employed / Contractor** | 2010 – Present
 
-Worked on ~40 commercial and R&D projects for European and US clients.
+Worked on **~40 commercial and R&D projects** for European and US clients.
 
 **Key responsibilities:**
-- Design and implementation of high-performance systems in C/C++
-- Development of networked, real-time applications with heavy concurrency
-- Work on video streaming and media-heavy platforms
-- Custom protocol handling and network services
-- Optimization and refactoring of production systems
-- End-to-end responsibility: architecture, implementation, maintenance
+- Design and implementation of **real-time, multithreaded C++ systems**
+- Development of **Linux services and daemon processes** running continuously in production
+- Work on **video streaming, monitoring and media-heavy platforms**
+- Implementation of **networked client–server systems** using TCP/UDP and REST
+- Debugging and optimization of **performance, latency and memory usage**
+- Refactoring and stabilization of **large legacy C/C++ codebases**
+- Full lifecycle responsibility: design, implementation, maintenance and support
 
 ---
 
-### Voxlatino (2011–2015, USA)  
-**Senior Engineer – VoIP Platform**
+### Senior Engineer – VoIP Platform  
+**Voxlatino (USA)** | 2011 – 2015
 
-- Reverse engineering and extension of VoIP systems
-- Backend services for real-time communication
-- Network-oriented system design
-- High-availability, production environment
+- Reverse-engineered and extended **real-time VoIP systems**
+- Developed backend services for **low-latency communication**
+- Worked on **network-oriented system design**
+- Supported **high-availability production environments**
 
-**Relevance:** real-time processing, networking, system reliability
-
----
-
-### Viddler (2011–2012, USA)  
-**Engineer – Video Streaming Platform**
-
-- Client-side development for video streaming services
-- REST API and media pipeline integration
-- Performance and latency considerations
-
-**Relevance:** video delivery systems
+**Focus:** real-time processing, networking, system reliability
 
 ---
 
-### X-Formation (2009–2010)  
-**C/C++ Software Engineer**
+### Engineer – Video Streaming Platform  
+**Viddler (USA)** | 2011 – 2012
 
-- Cross-platform licensing backend (Linux, Solaris, AIX, HPUX)
-- Multithreaded server architecture
-- Support for **10,000+ concurrent connections**
-- Long-running daemon processes
-- Refactoring and maintenance of production C/C++ codebase
+- Developed **client-side components** for a video streaming platform
+- Integrated client applications with **REST APIs and media pipelines**
+- Worked on **performance and latency aspects** of video delivery
 
-**Relevance:** scalable, concurrent C++ systems
+**Focus:** video streaming systems
 
 ---
 
-### AdRem Software (2008–2009)  
-**Software Engineer**
+### C/C++ Software Engineer  
+**X-Formation** | 2009 – 2010
 
-- Network monitoring tools
+- Developed a **multithreaded C++ server application**
+- Supported **10,000+ concurrent connections**
+- Implemented **long-running daemon processes**
+- Maintained cross-platform systems (Linux, Solaris, AIX, HPUX)
+- Refactored and maintained production C/C++ codebases
+
+**Focus:** scalability, concurrency, long-running services
+
+---
+
+### Software Engineer  
+**AdRem Software** | 2008 – 2009
+
+- Development of **network monitoring tools**
 - SNMP-based data collection
 - System-level desktop applications
 
 ---
 
-## Additional Relevant Expertise
+## Additional Technical Background
 
-- **Computer vision & video processing:** OpenCV, real-time pipelines
-- **Real-time client systems:** native C/C++ integration, performance constraints
-- **Low-level R&D:** CPU emulation, deep understanding of execution and memory models
+- **Video processing & computer vision:** OpenCV, real-time pipelines
+- **Native client systems:** C/C++ integration with performance constraints
+- **Low-level R&D:** CPU emulation, execution and memory models
 
 ---
 
 ## Education & Background
 
 - Programming experience since **1988**
-- Strong foundation in algorithms, data structures and low-level computing
+- Strong foundation in **algorithms, data structures and low-level systems**
 
 ---
 
 ## Languages
 
-- Polish: Native
-- English: Professional working proficiency (B2/C1)
+- Polish – Native  
+- English – Professional working proficiency (B2/C1)
