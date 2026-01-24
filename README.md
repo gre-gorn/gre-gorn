@@ -1,9 +1,5 @@
 # MASTER CV
 
-**Name:** Grzegorz Górnisiewicz  
-**Location:** Poland (open to relocation)  
-**Email:** grzegorz.gornisiewicz@gmail.com  
-**GitHub:** https://github.com/gre-gorn  
 **LinkedIn:** https://www.linkedin.com/in/ggornisiewicz  
 
 ---
