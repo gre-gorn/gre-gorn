@@ -6,7 +6,7 @@
 
 ## Profile
 
-Senior Software Engineer with **35+ years of hands-on experience** in system-level
+Senior Software Engineer with **years of hands-on experience** in system-level
 and cross-platform software development.
 
 Career rooted in **infrastructure, networking and system administration**, evolving
