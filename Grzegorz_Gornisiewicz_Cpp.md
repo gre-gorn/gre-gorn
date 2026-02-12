@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/ggornisiewicz
 
 ## Professional Profile
 
-Senior Software Engineer with **35+ years of hands-on experience** in **system-level and real-time software development**, with a strong focus on **modern C++**, **multithreaded systems**, **networked applications** and **performance-critical services**.
+Senior Software Engineer with **years of hands-on experience** in **system-level and real-time software development**, with a strong focus on **modern C++**, **multithreaded systems**, **networked applications** and **performance-critical services**.
 
 Extensive background in **video streaming platforms**, **VoIP systems**, **network protocols**, **long-running server processes** and **cross-platform software** (Linux, Windows, Unix). Practical experience spans full lifecycle development of production systems, from architecture and implementation to optimization and maintenance.
 
