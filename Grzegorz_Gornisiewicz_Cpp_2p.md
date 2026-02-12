@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-Senior Software Engineer with **35+ years of hands-on programming experience** in **system-level and performance-critical software**.
+Senior Software Engineer with **years of hands-on programming experience** in **system-level and performance-critical software**.
 
 Experienced in designing and maintaining **long-running systems**, **multithreaded applications**, and **networked software** developed primarily in **C++**, running in **production environments on Linux and Windows**.  
 Strong focus on **software design, code quality, stability, performance, and maintainability**, with end-to-end responsibility from implementation to long-term support.
