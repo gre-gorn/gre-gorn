@@ -1,0 +1,108 @@
+Grzegorz Górnisiewicz
+
+grzegorz.gornisiewicz@gmail.com
+
+https://www.linkedin.com/in/ggornisiewicz/
+
+## Executive Summary
+
+Technical Co-Founder and System Architect in cross-device product architecture (IoT, AR/XR, mobile, cloud). Hands-on leader in stabilizing early-stage systems, executing architectural redesigns under budget constraints, and delivering production-ready platforms.
+
+## Core Competencies
+
+- Technology stack selection and architectural redesign
+- Cross-device system integration (Embedded, Mobile, AR/XR, Cloud)
+- Performance optimization and runtime stabilization
+- Refactoring and transformation of early-stage systems
+- Vendor collaboration and external team integration
+- Cost-aware technical decision-making
+- MVP definition and delivery under startup constraints
+- Security architecture and access control design
+- UK company governance awareness
+
+
+# Long Road Game Studio Limited — Game Technology Startup Co-Founder, CEO & CTO (Apr 2021 – Apr 2025)
+
+- Co-founded and led a remote-first game technology startup operating across Poland and the UK.
+- Defined product roadmap and execution strategy, aligning technical development with business constraints, funding availability.
+- Managed budgeting, contractor coordination, and cross-functional delivery over a multi-year development cycle.
+- Led core engine and gameplay architecture, maintaining hands-on responsibility for system design, performance optimization, and technical direction.
+- Oversaw infrastructure planning, technical risk assessment, and long-term product evolution in an early-stage startup environment.
+- Operated a UK limited company (micro-entity), managing statutory filings, coordinating compliance with HMRC and Companies House, and fulfilling regulatory obligations as company director.
+
+
+# ViSULiZR 2.0 — AR Window Visualization Platform  
+(Self-employed) (Jan 2023 – Oct 2024)
+
+**Technologies:** Flutter, Unity (C#), ARKit, ARCore, GraphQL, Shopify
+
+- Took over an underdeveloped 2.0 codebase and transformed it into a stable, commercially deployable AR visualization product.
+- Led core system architectural redesign.
+- Designed and implemented AR visualization pipeline enabling accurate 1:1 material representation using manufacturer-provided seamless pattern assets and dimension-based scaling.
+- Developed Unity AR module responsible for spatial placement, scaling logic, and rendering consistency across ARKit and ARCore environments.
+- Recognized limitations of feature-based AR tracking on low-texture surfaces and coordinated external XR collaboration to extend platform capabilities, including Apple Vision support.
+- Optimized rendering pipeline delivered by external team, restoring runtime performance from ~12 FPS to stable 60/30 FPS on iPhone 12 Pro.
+- Ensured cohesive integration across AR, mobile, and e-commerce layers, delivering a production-ready visualization system improving customer purchase confidence.
+
+
+# Eating Point — Food Delivery Startup (Mobile Ecosystem, Contract, Remote) (Oct 2022 – Aug 2024)
+
+**Technologies:** Flutter, Swift, Android, POS integration
+
+- Led development of a multi-application mobile ecosystem including customer app, courier app, and POS-support application.
+- Designed and supervised cross-platform Flutter architecture for iOS and Android environments.
+- Responsible for technical scoping, cost estimation, and budgeting of the mobile platform across multiple product streams.
+- Analyzed and defined hardware integration approach for barcode scanners, including communication models between external scanning devices and mobile platforms.
+- Participated in scope clarification and project re-budgeting as the system evolved from initial assumptions into a large-scale, long-term product.
+
+
+# Unity AR/XR Engineer — Hololoot GmbH (Contract, Remote) (Oct 2022 – Aug 2023)
+
+**Technologies:** Unity, C#, ARKit, ARCore, Azure Spatial Anchors, iOS (Swift), Android (Java), Mobile GPU Optimization
+
+- Sole developer responsible for development, optimization, and integration of a Unity-based AR module rendering high-quality 3D NFT assets on mobile devices.
+- Optimized runtime performance under mobile hardware constraints, improving frame stability, reducing memory footprint, and minimizing GC pressure during extended AR sessions.
+- Identified and eliminated memory leaks, redesigned asset lifecycle management, and stabilized long-running runtime behavior.
+- In consultation with CTO, evaluated and implemented Azure Spatial Anchors (Microsoft Azure) to improve persistence and cross-session stability of AR content.
+- Integrated the Unity runtime module into native iOS (Swift) and Android (Java) applications, ensuring stable interoperability between Unity and platform layers.
+- Acted as technical owner of the AR module, driving architectural decisions, performance improvements, and cross-platform integration.
+
+
+# ViSULiZR 1.0 — Mobile AR E-commerce Application (Contract, Remote) (Jan 2019 – Oct 2020)
+
+**Technologies:** iOS (Swift), Android (Java), GraphQL, Shopify
+
+- Contributed to architecture and implementation of a cross-platform mobile e-commerce application enabling in-home visualization of window blinds, curtains & rollers.
+- Stabilized and refactored early-stage mobile codebase, improving maintainability and preparing the application for commercial deployment.
+- Implemented AR-inspired visualization workflow allowing users to preview blinds within photographed window frames (2D overlay-based approach).
+- Integrated GraphQL APIs and Shopify-based commerce backend to support product browsing, pricing estimation, and ordering flows.
+- Ensured production readiness across iOS and Android platforms, supporting public release.
+
+
+# Locky — IoT Smart Lock Platform (startup, EU grant-funded) (2017–2019, Poland)
+**Lead iOS & IoT Developer, Embedded Engineer (reporting directly to CTO)**
+
+**Languages / Technologies:** Swift, C/C++ (mbed OS), Python, Firebase, BLE, iOS SDK, macOS development
+
+- Played a key technical leadership role in building a cross-device IoT smart lock ecosystem integrating embedded hardware, mobile applications, and managed cloud services.
+- Proactively identified architectural risks and infrastructure inefficiencies, initiated and led backend architecture pivot to Firebase, reducing projected infrastructure costs by several hundred thousand PLN and shortening deployment complexity by eliminating custom server maintenance requirements.
+- Contributed to high-level system architecture design, including authentication, access control, real-time device synchronization, and push notification infrastructure,designing authentication, access control, and secure communication models balancing scalability, security, and cost-efficiency
+- Led development of the iOS application (Swift), implementing secure BLE communication, device lifecycle management, and user-facing security flows.
+- Took ownership of embedded firmware development for NRF52832, ensuring secure device behavior and reliable BLE protocol implementation.
+- Developed macOS BLE simulation and diagnostic tooling to accelerate hardware–software integration and improve testing efficiency.
+- Collaborated closely with the electronics team through systematic device testing and software-side analysis, identifying integration issues and contributing to firmware stability improvements.
+- Coordinated Android development efforts to maintain architectural consistency and cross-platform feature parity.
+- Ensured cohesive integration across embedded, mobile, and cloud layers, delivering a secure, scalable, and production-ready IoT platform under startup and grant-funded constraints.
+- Company participated in the Google for Startups program during product development.
+
+# Public Administration — IT Infrastructure & Data Protection Lead (Local Government Office, Poland) (Approx. 5 years)
+
+- Responsible for end-to-end IT infrastructure management across a multi-department public administration environment (dozens of workstations, on-premise servers, internal systems).
+- Officially appointed Administrator of Information Security (ABI), holding formal legal responsibility for compliance with national data protection regulations prior to the GDPR framework.
+- Supervised processing of highly sensitive personal data, including social welfare records and citizen registry information.
+- Defined and enforced organization-wide information security standards under formal legal responsibility.
+- Designed and implemented access control models, user privilege structures, and secure data handling procedures across administrative departments.
+- Established internal security policies, audit-ready documentation, and incident response procedures aligned with regulatory requirements.
+- Managed secure storage architecture, backup strategies, and data retention policies for government-operated systems.
+- Coordinated with external vendors and state system providers to ensure secure system integration and operational continuity.
+- Acted as formal point of accountability for information security governance within the organization.
