@@ -7,7 +7,8 @@ https://www.linkedin.com/in/ggornisiewicz/
 
 ---
 
-# Software Engineer (Systems / Computer Vision / AR)
+# Senior Software Engineer
+# Machine Learning / Computer Vision / AR Systems
 
 Software engineer with long-term experience building systems across mobile, embedded, AR/XR and backend platforms.
 
