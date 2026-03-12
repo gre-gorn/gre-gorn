@@ -8,15 +8,13 @@ https://www.linkedin.com/in/ggornisiewicz/
 ---
 
 # Senior Software Engineer
-# Computer Vision / Machine Learning / Real-Time Systems
+# Machine Learning / AI Systems / Computer Vision / Real-Time Systems
 
-Software engineer with long-term experience building systems across mobile, embedded, AR/XR and backend platforms.
+Senior software engineer with extensive experience building systems across mobile, embedded, AR/XR and backend platforms.
 
 Background includes computer vision pipelines, real-time video processing, distributed mobile streaming systems and cross-device architectures integrating embedded devices, mobile applications and cloud services.
 
-Experienced in debugging complex systems and integrating computer vision or machine learning inference into interactive applications.
-
-Experience building real-time spatial computer vision systems with integrated machine learning inference.
+Experienced in designing and debugging complex systems and integrating machine learning or AI-driven components into real-time interactive applications.
 
 ---
 
@@ -53,6 +51,26 @@ GraphQL
 Google Cloud  
 AWS  
 Azure
+
+---
+
+# AI Systems / Generative AI
+
+Experience designing and experimenting with LLM-driven systems for data interpretation, generative content pipelines and developer tooling.
+
+Key work included:
+
+- designing LLM pipelines generating descriptive weather reports from structured meteorological datasets
+- building image analysis workflows translating visual content into structured prompts for generative graphics pipelines
+- developing automated image-to-description systems producing semantic descriptions for designers and GenAI systems
+- creating structured historical analysis generation pipelines producing multi-parameter descriptions of historical figures (diplomacy / military / economy)
+- prototyping LLM-assisted crypto trading analysis combining market data signals with reasoning prompts
+- building a terminal-based AI coding agent capable of interpreting development tasks and generating code through LLM-driven workflows (Claude Code challenge)
+- integrating LLM tools into daily software engineering workflows for code generation, debugging and architecture exploration
+- experimenting with local image generation pipelines and prompt control for generative graphics workflows
+
+Technologies:
+Python, JavaScript / Node.js, LLM APIs, prompt engineering, structured prompting, AI workflow orchestration, local image generation tooling
 
 ---
 
