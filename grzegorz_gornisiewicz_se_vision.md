@@ -16,7 +16,7 @@ Background includes computer vision pipelines, real-time video processing, distr
 
 Experienced in debugging complex systems and integrating computer vision or machine learning inference into interactive applications.
 
-Experience integrating machine learning inference into real-time interactive systems.
+Experience building real-time spatial and computer vision systems integrating machine learning inference into interactive applications.
 
 ---
 
@@ -199,6 +199,19 @@ Key work included:
 - optimizing streaming behavior for ~7.2 Mbps HSDPA network conditions
 
 Technologies: Objective-C, REST APIs
+
+
+## Interactive Computer Vision Installation (Retail Demonstration)
+
+Built a real-time computer vision installation demonstrating mobile
+device capabilities in a storefront environment.
+
+Key work included:
+
+- implementing human detection using OpenCV
+- processing live video streams and detecting people entering the scene
+- estimating head positions for detected individuals
+- mapping detection coordinates to screen space and rendering dynamic overlays
 
 ---
 
