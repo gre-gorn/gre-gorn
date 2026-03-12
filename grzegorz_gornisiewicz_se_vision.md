@@ -10,7 +10,7 @@ https://www.linkedin.com/in/ggornisiewicz/
 # Senior Software Engineer
 # Machine Learning / AI Systems / Computer Vision / Real-Time Systems
 
-Senior software engineer with extensive experience building systems across mobile, embedded, AR/XR and backend platforms.
+Senior software engineer building machine learning and real-time systems across mobile, AR and distributed platforms.
 
 Background includes computer vision pipelines, real-time video processing, distributed mobile streaming systems and cross-device architectures integrating embedded devices, mobile applications and cloud services.
 
@@ -163,6 +163,16 @@ Key contributions:
 - proposed transition to Firebase backend architecture significantly reducing infrastructure complexity
 
 Technologies: Swift, C/C++, Python, Firebase, BLE
+
+---
+
+### X-Formation — Software Engineer
+2009 - 2010
+
+- Implemented **event-driven C++ networking subsystem** for a license management server.
+- Engineered socket-based infrastructure supporting **~10,000 concurrent persistent client connections**.
+- Developed custom connection lifecycle management and heartbeat mechanisms to maintain long-lived sessions.
+- Improved reliability and stability of real-time client communication under high concurrency.
 
 ---
 
