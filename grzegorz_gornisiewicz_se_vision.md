@@ -33,6 +33,7 @@ TensorFlow Lite
 ## Real-Time Systems
 video pipelines  
 camera processing  
+GStreamer pipelines  
 interactive AR systems
 
 ## Mobile / XR
@@ -141,7 +142,7 @@ Technologies: Swift, C/C++, Python, Firebase, BLE
 
 ---
 
-# Computer Vision & Experimental Projects
+# Computer Vision & R&D Projects
 
 ## AR Ring Try-On Prototype (Machine Learning / Computer Vision)
 
@@ -189,7 +190,7 @@ Technologies: Python, OpenCV
 
 ## Mobile Video Streaming Platform (R&D)
 
-Prototype distributed mobile streaming architecture targeting unstable 3G / HSDPA networks.
+Prototype distributed mobile video streaming architecture targeting unstable 3G / HSDPA networks.
 
 Key work included:
 
