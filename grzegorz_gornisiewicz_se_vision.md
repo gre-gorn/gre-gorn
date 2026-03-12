@@ -23,10 +23,15 @@ Experienced in designing and debugging complex systems and integrating machine l
 ## Programming Languages
 C / C++ / C# / Python / Java / Swift / JavaScript / PHP / Perl / Shell
 
-## Computer Vision
+## Machine Learning / Computer Vision
 OpenCV  
 MediaPipe  
 TensorFlow Lite
+
+## AI / Machine Learning
+LLM workflows  
+Prompt engineering  
+AI-assisted development workflows
 
 ## Real-Time Systems
 video pipelines  
@@ -42,10 +47,11 @@ iOS / Android
 
 ## Backend / Infrastructure
 Node.js / Express  
+REST APIs  
+GraphQL  
 MongoDB  
 Firebase  
-Supabase  
-GraphQL
+Supabase
 
 ## Cloud
 Google Cloud  
