@@ -8,13 +8,15 @@ https://www.linkedin.com/in/ggornisiewicz/
 ---
 
 # Senior Software Engineer
-# Machine Learning / Computer Vision / AR Systems
+# Computer Vision / Machine Learning / Real-Time Systems
 
 Software engineer with long-term experience building systems across mobile, embedded, AR/XR and backend platforms.
 
 Background includes computer vision pipelines, real-time video processing, distributed mobile streaming systems and cross-device architectures integrating embedded devices, mobile applications and cloud services.
 
 Experienced in debugging complex systems and integrating computer vision or machine learning inference into interactive applications.
+
+Experience integrating machine learning inference into real-time interactive systems.
 
 ---
 
@@ -141,31 +143,31 @@ Technologies: Swift, C/C++, Python, Firebase, BLE
 
 # Computer Vision & Experimental Projects
 
-## AR Ring Try-On Prototype (Computer Vision)
+## AR Ring Try-On Prototype (Machine Learning / Computer Vision)
 
-Prototype AR application for virtual jewelry fitting using real-time hand tracking.
+Prototype real-time visual perception pipeline for hand pose estimation and object anchoring in AR environments.
 
 Key work included:
 
-- implementing hand tracking using MediaPipe hand landmark detection
-- processing camera frames through a GStreamer-based video pipeline
-- executing hand landmark inference using TensorFlow Lite models
-- mapping detected finger landmarks to anchor 3D ring models
+- implementing real-time hand pose estimation using MediaPipe landmark models
+- building camera frame processing pipeline using GStreamer
+- running TensorFlow Lite inference for landmark detection on mobile devices
+- transforming landmark coordinates into 3D anchor space for object placement
 
-Technologies: MediaPipe, TensorFlow Lite, GStreamer
+Technologies: MediaPipe, TensorFlow Lite, OpenCV, GStreamer
 
 ---
 
 ## Building Opening Detection Prototype (Computer Vision)
 
-Prototype system for detecting structural openings (windows and doors) in unfinished building facades.
+Prototype computer vision pipeline for structural feature detection in building facades.
 
 Key work included:
 
-- implementing computer vision pipeline in C++ using OpenCV
-- detecting rectangular openings using edge detection and contour analysis
+- implementing edge detection and contour extraction using OpenCV
+- detecting rectangular structural features from camera imagery
 - filtering candidate regions using geometric constraints
-- designing mapping pipeline connecting detected openings with catalog window and door models
+- mapping detected openings to parametric window and door models
 
 Technologies: C++, OpenCV
 
