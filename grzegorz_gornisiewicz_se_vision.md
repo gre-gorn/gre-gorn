@@ -212,8 +212,9 @@ Key work included:
 - designing retry mechanisms and multi-server distribution strategies
 - implementing client-side video chunk retrieval and buffering logic
 - optimizing streaming behavior for ~7.2 Mbps HSDPA network conditions
+- implementing Node.js backend services handling chunk distribution and request routing
 
-Technologies: Objective-C, REST APIs
+Technologies: Objective-C, Node.js, MongoDB, Mongoose, REST APIs
 
 ---
 
